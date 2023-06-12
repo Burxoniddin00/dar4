@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Usmonov",
+        "username": "Ali",
+        "email": "fd,mgnjkgnadn",
+        "gender": "male",
+        "city": "Amerika",
+        "money": 1500,
+        "age": 15
+    },
+    {
+        "id": 2,
+        "name": "Ervin Howell",
+        "username": "Antonette",
+        "email": "Shanna@melissa.tv",
+        "gender": "male",
+        "city": "Amerika",
+        "money": 1650,
+        "age": 33
+    },
+    {
+        "id": 3,
+        "name": "Clementine Bauch",
+        "username": "Samantha",
+        "email": "Nathan@yesenia.net",
+        "gender": "male",
+        "city": "Amerika",
+        "money": 1570,
+        "age": 51
+    },
+    {
+        "id": 4,
+        "name": "Ervin Howell",
+        "username": "Antonette",
+        "email": "Julianne.OConner@kory.org",
+        "gender": "male",
+        "city": "Amerika",
+        "money": 4500,
+        "age": 48
+    },
+    {
+        "id": 5,
+        "name": "Chelsey Dietrich",
+        "username": "Antonette",
+        "email": "Lucio_Hettinger@annie.ca",
+        "gender": "male",
+        "city": "Amerika",
+        "money": 1700,
+        "age": 36
+    },
+    {
+        "name": "Ervin Howell",
+        "username": "Antonette",
+        "email": "Julianne.OConner@kory.org",
+        "gender": "male",
+        "city": "Amerika",
+        "money": 4500,
+        "age": 48,
+        "id": 6
+    },
+    {
+        "name": "Ervin Howell",
+        "username": "Antonette",
+        "email": "Julianne.OConner@kory.org",
+        "gender": "male",
+        "city": "Amerika",
+        "money": 4500,
+        "age": 48,
+        "id": 7
+    },
+    {
+        "name": "Ervin Howell",
+        "username": "Antonette",
+        "email": "Julianne.OConner@kory.org",
+        "gender": "male",
+        "city": "Amerika",
+        "money": 4500,
+        "age": 48,
+        "id": 8
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "Ulomlar nazli",
+      "price": 1200,
+      "cotegory": "raman",
+      "yers":2020,
+      "page":300
+    },
+    {
+      "id": 2,
+      "name": "TCP/IP Sockets in Java",
+      "price": 2000,
+      "cotegory": "drama",
+      "yers":2022,
+      "page":400
+    },
+    {
+      "id": 3,
+      "name": "Java Precisely, third edition",
+      "price": 5000,
+      "cotegory": "jangari",
+      "yers":2023,
+      "page":500
+    },
+    {
+      "id": 4,
+      "name": "Java, Or, How to Manage a Colony",
+      "price": 5000,
+      "cotegory": "raman",
+      "yers":2020,
+      "page":700
+    },
+    {
+      "id": 5,
+      "name": "The Java EE 5 Tutorial",
+      "price": 2000,
+      "cotegory": "drama",
+      "yers":2010,
+      "page":300
+    }
+  ]
+  
